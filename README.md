@@ -39,10 +39,8 @@ Projeto simulando um aplicativo de relacionamentos (Tinder). Desenvolvido ao lon
       
  
       
-      ![HomeScreen-AstroMatch](https://user-images.githubusercontent.com/98184031/185994280-c058b636-a5cf-4d23-be18-c733783e64fa.png)
-
-      
-      
+![HomeScreen-AstroMatch](https://user-images.githubusercontent.com/98184031/185999152-abd7a60c-bff5-4de4-8555-738c3eae2027.png)
+     
       
 ![MatchScreen-AstroMatch](https://user-images.githubusercontent.com/98184031/185994140-9b74d58f-1cb2-4019-b506-d66d95cd3826.png)
 
