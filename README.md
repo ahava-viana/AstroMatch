@@ -20,7 +20,7 @@ Projeto simulando um aplicativo de relacionamentos (Tinder). Desenvolvido ao lon
 - Componentização do projeto poderia estar melhor assim como a estilização, com as requisições em outro arquivo para melhor organização.
 
 ## 🚀 Link do Surge
-<a href="http://left-hand.surge.sh/matchs">astromatch.surge.sh</a>
+<a href="http://left-hand.surge.sh/">astromatch.surge.sh</a>
 
 ## :nerd_face: Feito por
 
