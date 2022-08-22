@@ -66,7 +66,7 @@ const MatchScreen = () => {
       </ul> 
       
     
-        {" "}
+        
       
       
     </ContainerMatch>
