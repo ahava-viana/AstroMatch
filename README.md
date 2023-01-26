@@ -4,7 +4,7 @@
 ## 💻 Sobre
 Projeto simulando um aplicativo de relacionamentos (Tinder). Desenvolvido ao longo do curso na Labenu utilizando React.js.
 
-## 🗃️ Libs Utilizadas
+## :test_tube: Tecnologias Utilizadas
 - axios
 - styled-components
 - react-router-dom
